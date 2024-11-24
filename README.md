@@ -51,5 +51,5 @@ then acces the image # docker pull purna6/python-ci-cd-app
 This setup automates the process of building, testing, and deploying a Python application using Jenkins and Docker. The pipeline ensures that every change pushed to GitHub is automatically built, tested, and deployed to Docker Hub, improving efficiency and reliability.
 
 # Access the Application in Your Browser
-http://44.244.199.228:8080
+http://44.244.199.228:5000
 You should see the Flask app displaying "Hello, World!" in your web browser.
